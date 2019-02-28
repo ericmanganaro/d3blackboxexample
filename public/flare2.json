@@ -1,0 +1,39 @@
+{
+  "name": "BlockInformation",
+  "children": [
+    {
+      "name": "transfer",
+      "children": [
+        {
+          "name": "YOC",
+          "size": 6714
+        },
+        {
+          "name": "5.808409295652579e+22",
+          "size": 6714
+        },
+        {
+          "name": "0x9e0B9dDbA97Dd4f7aDdab0B5F67036EEBE687606",
+          "size": 6714
+        }
+      ]
+    },
+    {
+      "name": "transfer",
+      "children": [
+        {
+          "name": "YOC",
+          "size": 6714
+        },
+        {
+          "name": "5.808409295652579e+22",
+          "size": 6714
+        },
+        {
+          "name": "0x9e0B9dDbA97Dd4f7aDdab0B5F67036EEBE687606",
+          "size": 6714
+        }
+      ]
+    }
+  ]
+}

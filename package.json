@@ -1,0 +1,22 @@
+{
+  "name": "d3blackbox-sunburst",
+  "version": "1.0.0",
+  "description": "Sunburst!",
+  "keywords": ["d3blackbox", "sunburst", "json"],
+  "main": "src/index.js",
+  "dependencies": {
+    "d3": "3.5.17",
+    "d3blackbox": "1.0.0",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
